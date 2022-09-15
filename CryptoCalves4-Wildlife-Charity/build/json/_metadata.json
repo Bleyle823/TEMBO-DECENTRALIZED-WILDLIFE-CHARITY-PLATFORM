@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Woody Punks #1",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "a79a7766ae3440fcc59454764f6c42c034ec1dc4",
+    "edition": 1,
+    "date": 1658052991620,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0000_Green_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0000_suprised_eyes_5"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0001_blue_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0002_lips_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #2",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "65bba8c7bc25920be5ed932ec3070a42c5e23901",
+    "edition": 2,
+    "date": 1658052993775,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0001_DarkGreen_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0002_triggered_3"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0002_lips_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #3",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "32efdc0e7f45439518e21d220d239dddce29f4c8",
+    "edition": 3,
+    "date": 1658052996063,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0000_Green_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0002_triggered_3"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0002_red_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0002_lips_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #4",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "0a20bf49db6c7273c5b1504a0b85ca39d54fe322",
+    "edition": 4,
+    "date": 1658052997742,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0001_DarkGreen_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0004_dumb_1"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0001_blue_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0001_lips_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #5",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "123cdf19716b23a71b0bb486a12601db0984f2c0",
+    "edition": 5,
+    "date": 1658052999118,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0002_black_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0004_dumb_1"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0002_lips_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #6",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "6e24170d824dfc727860e03101ea44121134251b",
+    "edition": 6,
+    "date": 1658053000430,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0002_black_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0001_winking_4"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0002_red_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0000_lips_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #7",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "20055f612fb99bf97cef7938889323465f9ba026",
+    "edition": 7,
+    "date": 1658053002024,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0000_Green_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0003_shocked_2"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0002_red_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0001_lips_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #8",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "8fd4730cc2d76a687d1d9b67bfec03724b04a2ab",
+    "edition": 8,
+    "date": 1658053004213,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0002_black_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0000_suprised_eyes_5"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0002_lips_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #9",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "891b387a86be27fbc24ea5866a311d546e1ae08a",
+    "edition": 9,
+    "date": 1658053005534,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0001_DarkGreen_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0003_shocked_2"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0001_lips_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #10",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "af0cec09f9f5b78a41a22d03feb1f1e673b21cef",
+    "edition": 10,
+    "date": 1658053006817,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0002_black_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0000_suprised_eyes_5"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0000_lips_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #11",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "d166ad1565a26fc4396e9af34bcdc6599f1dad87",
+    "edition": 11,
+    "date": 1658053007974,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0001_DarkGreen_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0003_shocked_2"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0002_red_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0001_lips_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #12",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "a93968a8b4f2061e47ec4296f294ebdad7a17a72",
+    "edition": 12,
+    "date": 1658053009825,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0000_Green_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0000_suprised_eyes_5"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0000_lips_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #13",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "91c2fb77af92e430864c62195b716570dadac08c",
+    "edition": 13,
+    "date": 1658053011703,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0001_DarkGreen_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0004_dumb_1"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0002_lips_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #14",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "04259d109a68d2a119672c88e30590fb3d53b778",
+    "edition": 14,
+    "date": 1658053012924,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0001_DarkGreen_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0001_winking_4"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0001_blue_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0002_lips_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #15",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "7ee5bb176e7a70926dd58beba26c18641be2af06",
+    "edition": 15,
+    "date": 1658053014254,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0000_Green_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0000_suprised_eyes_5"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0002_lips_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #16",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "6a83a99078b671256e7592dd3ca9a1776e89364d",
+    "edition": 16,
+    "date": 1658053016013,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0001_DarkGreen_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0000_suprised_eyes_5"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0000_lips_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #17",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "8dc870d16ec78deedc8f5d73f0fa89526f6387a6",
+    "edition": 17,
+    "date": 1658053017903,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0001_DarkGreen_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0000_suprised_eyes_5"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0002_red_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0002_lips_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #18",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "7c4b538b0265f0f268130be3add580de224249f0",
+    "edition": 18,
+    "date": 1658053019542,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0002_black_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0001_winking_4"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0000_yellow_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0000_lips_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #19",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "f0bd96ffb392ac2e5cb3ad2b1128b9c9057edd53",
+    "edition": 19,
+    "date": 1658053021147,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0001_DarkGreen_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0002_triggered_3"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0001_blue_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0000_lips_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Woody Punks #20",
+    "description": "Globo Punks are superheroes fighting for environmental conservation",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "7bdf145e93531e628c41f063c512ab37d7996988",
+    "edition": 20,
+    "date": 1658053022835,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "_0004s_0000_Green_bg"
+      },
+      {
+        "trait_type": "MainFigure",
+        "value": "_0003s_0000_main"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "_0002s_0003_shocked_2"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "_0000s_0002_red_glasses"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "_0001s_0000_lips_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

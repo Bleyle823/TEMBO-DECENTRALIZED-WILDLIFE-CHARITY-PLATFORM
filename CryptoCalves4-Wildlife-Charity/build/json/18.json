@@ -1,0 +1,31 @@
+{
+  "name": "Woody Punks #18",
+  "description": "Globo Punks are superheroes fighting for environmental conservation",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "dna": "7c4b538b0265f0f268130be3add580de224249f0",
+  "edition": 18,
+  "date": 1658053019542,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "_0004s_0002_black_bg"
+    },
+    {
+      "trait_type": "MainFigure",
+      "value": "_0003s_0000_main"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "_0002s_0001_winking_4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "_0000s_0000_yellow_glasses"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "_0001s_0000_lips_3"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
