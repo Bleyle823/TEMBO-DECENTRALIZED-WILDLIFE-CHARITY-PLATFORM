@@ -26,7 +26,7 @@ By working with charity organisations, Tembo is aiming to help resurrect the ima
 
 First, clone the repository 
 
-Run the following in the Tembo directory
+Run the following in the Tembo.io directory
 
 ```
 npm install 
