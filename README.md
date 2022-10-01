@@ -1,5 +1,5 @@
 <h1 align="center">
-  TEMBO DECENTRALIZED WILDLIFE CHARITY PLATFORM(EthSafari)
+  TEMBO DECENTRALIZED WILDLIFE CHARITY PLATFORM (Eth Safari)
 </h1>
  
 ‘Tembo’ is the Swahili word for Elephant. One of Africa’s most iconic species is also one of the most vulnerable as they are the most affected by illegal wildlife trade, habitat loss and fragmentation as well as human-wildlife conflict.
